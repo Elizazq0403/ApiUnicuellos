@@ -1,3 +1,3 @@
 <?php
 
-echo "Se realiza prueba de ramas";gi
+echo "Se realiza prueba de ramas";
