@@ -19,5 +19,3 @@ class DBConfig{
         }
     }
 }
-$dbConnection = new DBConfig();
-$dbConnection->connect(); 
